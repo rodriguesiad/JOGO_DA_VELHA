@@ -176,6 +176,8 @@ public class Main
     		op = leitor.nextInt();
 		}while(op != 2);
 		
+		leitor.close();
+		
 	}
 }
 
